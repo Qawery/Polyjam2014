@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e89a6066dbf3b664287ec6b89beba5c4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - arachnidMaterial: {instanceID: 0}
+  - arachnidAnimatorController: {instanceID: 0}
+  - arachnidAudioAlert: {fileID: 8300000, guid: 042ad555c0eda594996bf61bedd59679,
+      type: 3}
+  - arachnidAudioDeath: {fileID: 8300000, guid: 0596af4fe88531d468d6100cc81a2646,
+      type: 3}
+  - blobMaterial: {instanceID: 0}
+  - blobAnimatorController: {instanceID: 0}
+  - blobAudioAlert: {fileID: 8300000, guid: c238ad0e7653c364e82dd2d420cff7d9, type: 3}
+  - blobAudioDeath: {fileID: 8300000, guid: 7614bf65d9a37444d9d8d1bdf855febd, type: 3}
+  - humanoidMaterial: {instanceID: 0}
+  - humanoidAnimatorController: {instanceID: 0}
+  - humanoidAudioAlert: {fileID: 8300000, guid: a2c2c37e6328c8f439369796def16722,
+      type: 3}
+  - humanoidAudioDeath: {fileID: 8300000, guid: 991bc6f2e01d0fc40bdf3664b7bea36b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

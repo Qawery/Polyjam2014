@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3e43cb270e4b7bf4a9a713b69de46bcc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 100000, guid: e4f09fc9f56f9884a9973058b086eda1, type: 2}
+  - shotSound: {fileID: 8300000, guid: 063a576eff820dd41a8d1c7587d23732, type: 3}
+  - reloadSound: {fileID: 8300000, guid: 1d496f9e35788174dac544b2fb2b817e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

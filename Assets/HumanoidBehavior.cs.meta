@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 28c87954e6e14ce49bcf266d94e5d54f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audioAlert: {fileID: 8300000, guid: a2c2c37e6328c8f439369796def16722, type: 3}
+  - audioDeath: {fileID: 8300000, guid: 991bc6f2e01d0fc40bdf3664b7bea36b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
